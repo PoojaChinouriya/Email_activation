@@ -1,0 +1,5 @@
+INFO 2023-12-30 11:14:41,451 views success_logger user created with username pooja1
+INFO 2023-12-30 11:29:43,433 views success_logger Employee fetch successfully
+INFO 2023-12-30 11:29:51,582 views success_logger Employee with id1 created successfully
+INFO 2023-12-30 11:37:28,634 views success_logger user pooja1 is deactivated successfully
+INFO 2023-12-30 11:38:56,951 views success_logger user created with username pooja2

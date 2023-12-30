@@ -1,0 +1,1 @@
+ERROR 2023-12-30 11:42:53,821 views error_logger error creating user {'username': [ErrorDetail(string='A user with that username already exists.', code='unique')]}
